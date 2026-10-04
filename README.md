@@ -1,4 +1,4 @@
-# UBI Stage 5 Recon Engine
+# Recon Engine
 
 A scope-aware reconnaissance engine developed during cybersecurity
 assessment and authorized laboratory work.
